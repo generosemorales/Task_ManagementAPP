@@ -7,3 +7,9 @@ A Task Management Application were app can:
 - Search Task
 - Filter Task
 - Display Task
+
+# Technologies used
+- React
+- Next.js
+- TypeScript
+- MUI
